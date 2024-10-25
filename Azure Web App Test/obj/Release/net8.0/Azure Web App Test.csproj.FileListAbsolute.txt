@@ -1,0 +1,30 @@
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/bin/Release/net8.0/appsettings.Development.json
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/bin/Release/net8.0/appsettings.json
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/bin/Release/net8.0/Azure Web App Test.staticwebassets.runtime.json
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/bin/Release/net8.0/Azure Web App Test
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/bin/Release/net8.0/Azure Web App Test.deps.json
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/bin/Release/net8.0/Azure Web App Test.runtimeconfig.json
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/bin/Release/net8.0/Azure Web App Test.dll
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/bin/Release/net8.0/Azure Web App Test.pdb
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/Azure Web App Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/Azure Web App Test.AssemblyInfoInputs.cache
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/Azure Web App Test.AssemblyInfo.cs
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/Azure Web App Test.csproj.CoreCompileInputs.cache
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/Azure Web App Test.MvcApplicationPartsAssemblyInfo.cache
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/Azure Web App Test.RazorAssemblyInfo.cache
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/Azure Web App Test.RazorAssemblyInfo.cs
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/staticwebassets.build.json
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/staticwebassets.development.json
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/staticwebassets/msbuild.Azure Web App Test.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/staticwebassets/msbuild.build.Azure Web App Test.props
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.Azure Web App Test.props
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.Azure Web App Test.props
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/staticwebassets.pack.json
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/scopedcss/bundle/Azure Web App Test.styles.css
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/scopedcss/projectbundle/Azure Web App Test.bundle.scp.css
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/Azure Web App Test.dll
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/refint/Azure Web App Test.dll
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/Azure Web App Test.pdb
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/Azure Web App Test.genruntimeconfig.cache
+/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/Release/net8.0/ref/Azure Web App Test.dll
