@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/Azure Web App Test.csproj",
+      "projectUniqueName": "/Users/kavillanueva/Documents/GitHub/udemy-azure-webapp/Azure Web App Test/Azure Web App Test.csproj",
       "projectName": "Azure Web App Test",
-      "projectPath": "/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/Azure Web App Test.csproj",
+      "projectPath": "/Users/kavillanueva/Documents/GitHub/udemy-azure-webapp/Azure Web App Test/Azure Web App Test.csproj",
       "packagesPath": "/Users/kavillanueva/.nuget/packages/",
-      "outputPath": "/Users/kavillanueva/Documents/Azure Training/Azure Web App Test/Azure Web App Test/obj/",
+      "outputPath": "/Users/kavillanueva/Documents/GitHub/udemy-azure-webapp/Azure Web App Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kavillanueva/.nuget/NuGet/NuGet.Config"

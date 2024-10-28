@@ -1,0 +1,4 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "Azure Web App Test/bin/Release/net8.0/publish"
+}

@@ -1,0 +1,7 @@
+/Users/kavillanueva/Documents/GitHub/udemy-azure-webapp/Azure Web App Test/bin/Release/net8.0/publish/Azure Web App Test
+/Users/kavillanueva/Documents/GitHub/udemy-azure-webapp/Azure Web App Test/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/kavillanueva/Documents/GitHub/udemy-azure-webapp/Azure Web App Test/bin/Release/net8.0/publish/appsettings.json
+/Users/kavillanueva/Documents/GitHub/udemy-azure-webapp/Azure Web App Test/bin/Release/net8.0/publish/Azure Web App Test.dll
+/Users/kavillanueva/Documents/GitHub/udemy-azure-webapp/Azure Web App Test/bin/Release/net8.0/publish/Azure Web App Test.deps.json
+/Users/kavillanueva/Documents/GitHub/udemy-azure-webapp/Azure Web App Test/bin/Release/net8.0/publish/Azure Web App Test.runtimeconfig.json
+/Users/kavillanueva/Documents/GitHub/udemy-azure-webapp/Azure Web App Test/bin/Release/net8.0/publish/Azure Web App Test.pdb
