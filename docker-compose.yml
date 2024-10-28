@@ -1,0 +1,12 @@
+# Please refer https://aka.ms/HTTPSinContainer on how to setup an https developer certificate for your ASP.NET Core service.
+
+version: '3.4'
+
+services:
+  azurewebapptest:
+    image: azurewebapptest
+    build:
+      context: .
+      dockerfile: Azure Web App Test/Dockerfile
+    ports:
+      - 7172:7172
