@@ -123,6 +123,13 @@
             "netCore": {
                 "appProject": "${workspaceFolder}/Azure Web App Test/Azure Web App Test.csproj"
             }
+        },
+        {
+            "type": "func",
+            "label": "func: host start",
+            "command": "host start",
+            "problemMatcher": "$func-watch",
+            "isBackground": true
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "appService.preDeployTask": "publish-release",
     "appService.deploySubpath": "Azure Web App Test/bin/Release/net8.0/publish",
-    "appService.defaultWebAppToDeploy": "/subscriptions/8d6636c0-bfcb-4958-be08-604f05b5d89b/resourceGroups/UdemyWebApp/providers/Microsoft.Web/sites/udemy-web-app"
+    "appService.defaultWebAppToDeploy": "/subscriptions/8d6636c0-bfcb-4958-be08-604f05b5d89b/resourceGroups/UdemyWebApp/providers/Microsoft.Web/sites/udemy-web-app",
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.projectLanguage": "Custom",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen"
 }
